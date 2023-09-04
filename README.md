@@ -1,7 +1,7 @@
 # SFODA
 ## Overview of our proposed SFODA method.
 
-![](D:\Document\论文\SFODA\image\framework_v2.jpg)
+![](https://github.com/Mr-Yoje/SFODA/blob/main/image/framework_v2.jpg)
 
 ## Datesets
 
@@ -14,9 +14,9 @@ The WVD dataset you can download [here](https://www.sensingai.com.cn/ICMEproject
 
 The visualization results on Rainy Cityscapes.
 
-![](D:\Document\论文\SFODA\image\viz.png)
+![](https://github.com/Mr-Yoje/SFODA/blob/main/image/viz.png)
 
 The visualization results on Rainy WVD.
 
-![](D:\Document\论文\SFODA\image\szu_viz.png)
+![](https://github.com/Mr-Yoje/SFODA/blob/main/image/szu_viz.png)
 
